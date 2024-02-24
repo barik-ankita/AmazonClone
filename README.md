@@ -1,7 +1,6 @@
----
-title: Amazon UI Clone
-description: A replica of the Amazon user interface built with HTML and CSS.
----
+# Amazon UI Clone
+## Description: 
+### A replica of the Amazon user interface built with HTML and CSS.
 
 # Amazon UI Clone
 
